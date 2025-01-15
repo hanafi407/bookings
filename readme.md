@@ -1,5 +1,7 @@
-# Bookings
+# Bookings and Reservations
 
-The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
-
-
+This is the repository for bookings and reservations project.
+- Built in Go version 1.23.4
+- Uses [Chi Router](https://www.github.com/go-chi/chi)
+- Uses [Alex Edward SCS Session Management](https://www.github.com/alexedwards/scs/v2)
+- Uses [NoSurf](https://www.github.com/justinus/nosurf)
